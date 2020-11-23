@@ -35,3 +35,7 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+		
+李润一的注释：
+1.关于提交反馈：已经给了post，加入了form.html
+2.相关技术见https://www.jb51.net/web/644693.html
